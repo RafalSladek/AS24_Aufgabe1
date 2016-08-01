@@ -37,3 +37,5 @@ Refactore die App so, dass du das Ergebnis in einem Fragment ausrechnest und die
 Bitte öffne folgenden Link: https://goo.gl/UwuQPm
 
 Falls der dort zu findende Beschreibungstext nicht ausreicht oder die Aufgabenstellung unverständlich erscheint, bitte einen der Entwickler.
+
+[Solution](https://repl.it/BfSI/9)
